@@ -1,2 +1,2 @@
-# Companion-data-to-Psychophysics-with-R-The-R-Package-MixedPsy-
+# MixedPsy-Companion-data
 Companion data to the tutorial "Psychophysics with R: The R Package MixedPsy"
